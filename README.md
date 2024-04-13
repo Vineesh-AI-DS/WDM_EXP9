@@ -26,5 +26,15 @@ for this purpose.
 
 
 ### Output:
+![OUTPUT](01.png)
 
+![OUTPUT](05.png)
+
+![OUTPUT](03.png)
+
+![OUTPUT](04.png)
 ### Result:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
+
+
+
